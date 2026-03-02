@@ -110,7 +110,7 @@ src/client.py
     │       ├── math (stdio)    → src/mathserver.py
     │       └── weather (http)  → src/weather.py :8000
     ├── ChatGroq (openai/gpt-oss-120b)
-    ├── create_react_agent (LangGraph)
+    ├── create_agent (LangChain)
     ├── LangSmith  ──────────────────────→ smith.langchain.com
     └── Langfuse   ──────────────────────→ cloud.langfuse.com
 ```
